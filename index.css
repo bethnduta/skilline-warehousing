@@ -137,12 +137,19 @@ nav ul li a{
     top: 0;
     left: 0;
     z-index: -1;
+    transform: rotate(10deg);
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
 }
 
 .title-text h1{
     font-size: 50px;
 }
 
+#footer{
+    padding: 100px 0 20px;
+    background: #efefef;
+}
 
 @media screen and (max-width: 770px) {
     .banner-text h1{
