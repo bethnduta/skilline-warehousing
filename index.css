@@ -47,3 +47,8 @@
     color: #fff;
     border: 5px solid #fff;
 }
+
+.banner-btn a span{
+    width: 50%;
+    height: 100%;
+}
