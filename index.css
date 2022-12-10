@@ -108,6 +108,12 @@ nav ul li a{
     margin-top: 15px;
 }
 
+/* feature */
+#feature{
+    width: 100%;
+    padding: 70px 0;
+}
+
 @media screen and (max-width: 770px) {
     .banner-text h1{
         font-size: 44px;
