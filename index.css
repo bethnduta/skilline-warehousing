@@ -177,6 +177,19 @@ nav ul li a{
     color: #009688;
     margin: 10px;
 }
+.social-links{
+    text-align: center;
+}
+.social-links .fa{
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    line-height: 40px;
+    border: 1px solid #009688;
+    margin: 40px 5px 0;
+    color: #009688;
+    cursor: pointer;
+}
 
 @media screen and (max-width: 770px) {
     .banner-text h1{
