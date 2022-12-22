@@ -18,7 +18,7 @@
 }
 
 #banner{
-  background: linear-gradient(rgba(0,0,0,0.5),#871d49),url(logs.png);
+  background: linear-gradient(rgba(0,0,0,0.5),#cb7e9c),url(img/logs.png);
   background-size: cover;
   background-position: center;
   height: 100vh;
